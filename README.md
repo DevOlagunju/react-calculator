@@ -94,3 +94,7 @@ react-calculator/
 5. Use % to convert to percentage
 
 Enjoy calculating! 🎉
+
+---
+
+Built with ❤️ by DevOlagunju
