@@ -1,5 +1,9 @@
 # React Calculator
 
+![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
+![Vite](https://img.shields.io/badge/Vite-5.0-646CFF.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 A beautiful and feature-rich calculator built with React and Vite.
 
 ## Features
